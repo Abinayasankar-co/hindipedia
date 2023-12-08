@@ -1,0 +1,16 @@
+.hi{
+    border-radius: 5%;
+    box-sizing: border-box;
+    background-color: aquamarine;
+    text-align: center;
+    text-decoration: dashed;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.contentpage{
+    box-sizing: content-box;
+    border-color: black;
+    background-color: wheat;
+}
+.infocourse{
+    background-color: antiquewhite;
+}

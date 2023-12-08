@@ -1,0 +1,36 @@
+/* Home */
+#home{
+    background: rgb(0,101,219);
+    background: linear-gradient(90deg, rgb(0,101,219) 50%, rgba(0,212,255) 
+    100%);
+    min-height: 500px;
+}
+@media screen and (min-width:201px) and (max-width:992px) {
+    .container1{
+        flex-direction: column;
+        height: fit-content;
+        width: fit-content;
+    }
+}
+.footer{
+    background: rgb(0,101,219);
+    background: linear-gradient(90deg, rgb(0,101,219) 50%, rgba(0,212,255) 
+    100%);
+    min-height: 500px;
+}
+.Dashboard{
+    width:100vw;
+    height: 100vh;
+    
+}
+.Sidebar{
+    height:100%;
+    width:100px;
+    background-color: aqua;
+
+}
+.home-page{
+    text-align: center;
+    background-color: antiquewhite;
+    max-width: auto;
+}
